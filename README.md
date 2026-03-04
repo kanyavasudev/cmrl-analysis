@@ -1,6 +1,6 @@
-# 🚇 Chennai Metro Ridership Analysis (2023-2026)
+# Chennai Metro Ridership Analysis (2023-2026)
 
-## 📌 Project Overview
+## Project Overview
 This project analyzes **3 years of official Chennai Metro Rail (CMRL) ridership data** from April 2023 to February 2026. The goal was to uncover payment behavior trends, seasonal ridership patterns, and the impact of the Singara Chennai Card launch on digital payment adoption.
 
 > **Data Source:** Official CMRL open data portal (cmrl.co.in)  
